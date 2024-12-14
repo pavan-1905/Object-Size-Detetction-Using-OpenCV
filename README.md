@@ -31,7 +31,7 @@ Steps:
 
 A similar alternative is an "Open in Colab" badge, which allows people with a google account to open launch one of the public jupyter notebooks here directly on Google's servers. What I'd like is a badge that like Open In Colab next to the current Binder badge.
 
-The markdown code to insert into the README.md file will look something like this:
+# **The Sample Code is in this following Colab Notebook:**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BZ5rl3nH9QXNktSoivqfz6AIhDKTXWgP#scrollTo=MOLoWIGg5EgF)
 
 # **Sample Input Image**
