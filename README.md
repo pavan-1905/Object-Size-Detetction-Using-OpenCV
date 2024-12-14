@@ -20,8 +20,8 @@ Requirements.**
     **imutils**
 You can install the required libraries using the following command:
 
-  **bash**
-  **Copy code**
+  1. **bash**
+  2. **Copy code**
   **pip install opencv-python numpy scipy imutils**
 
 Steps:  
