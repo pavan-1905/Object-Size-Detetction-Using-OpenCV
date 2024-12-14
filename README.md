@@ -50,7 +50,7 @@ A similar alternative is an "Open in Colab" badge, which allows people with a go
 # **Sample Output Image**
 ![image](https://github.com/pavan-1905/Object-Size-Detetction-Using-OpenCV/blob/main/Output.png)
 
-# 6. **Contributing**
+# **Contributing**
 **Feel free to fork this repository, make changes, and submit pull requests. Any contributions to improve the accuracy or functionality of the project are welcome.**
 
 
