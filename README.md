@@ -1,5 +1,6 @@
 # **Object Size Detection with OpenCV**
-This project demonstrates how to use OpenCV for image processing, including object dimension detection and display. The primary functionality includes detecting contours in an image, calculating the bounding box for each object, and determining its dimensions (in inches) based on a pixel-per-metric conversion. Additionally, the program resizes the image, detects edges, and displays the object dimensions along with the image's size.
+
+**This project demonstrates how to use OpenCV for image processing, including object dimension detection and display. The primary functionality includes detecting contours in an image, calculating the bounding box for each object, and determining its dimensions (in inches) based on a pixel-per-metric conversion. Additionally, the program resizes the image, detects edges, and displays the object dimensions along with the image's size.**
 
 # **Features**
 1. **Image Resize: Resizes the input image to a reduced size for faster processing.**
@@ -33,6 +34,21 @@ A similar alternative is an "Open in Colab" badge, which allows people with a go
 The markdown code to insert into the README.md file will look something like this:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BZ5rl3nH9QXNktSoivqfz6AIhDKTXWgP#scrollTo=MOLoWIGg5EgF)]
 
-3 **Sample Input Image**
+# **Sample Input Image**
+![image](https://github.com/pavan-1905/Object-Size-Detetction-Using-OpenCV/blob/main/Image1.jpg)
 
+
+# **Output**
+**The output image will display:**
+
+1. **The detected objects with rotated bounding boxes drawn around them.**
+2. **Midpoints marked for each side of the bounding box.**
+3. **Connecting lines between the midpoints.**
+4. **Dimensions (in inches) annotated on the image.**
+5. **Image size (width and height in pixels) displayed in the bottom-left corner.**
+   
 # **Sample Output Image**
+![image](https://github.com/pavan-1905/Object-Size-Detetction-Using-OpenCV/blob/main/Output.png)
+
+
+ 
