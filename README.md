@@ -1,4 +1,4 @@
-**Object Size Detection with OpenCV**
+###**Object Size Detection with OpenCV**
 This project demonstrates how to use OpenCV for image processing, including object dimension detection and display. The primary functionality includes detecting contours in an image, calculating the bounding box for each object, and determining its dimensions (in inches) based on a pixel-per-metric conversion. Additionally, the program resizes the image, detects edges, and displays the object dimensions along with the image's size.
 
 Features
@@ -31,5 +31,5 @@ Steps:
 A similar alternative is an "Open in Colab" badge, which allows people with a google account to open launch one of the public jupyter notebooks here directly on Google's servers. What I'd like is a badge that like Open In Colab next to the current Binder badge.
 
 The markdown code to insert into the README.md file will look something like this:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BZ5rl3nH9QXNktSoivqfz6AIhDKTXWgP#scrollTo=MOLoWIGg5EgF)]
 
-[![Open In Colab](https://colab.research.google.com/drive/1BZ5rl3nH9QXNktSoivqfz6AIhDKTXWgP#scrollTo=MOLoWIGg5EgF)]
