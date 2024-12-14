@@ -1,7 +1,7 @@
-###**Object Size Detection with OpenCV**
+##**Object Size Detection with OpenCV**
 This project demonstrates how to use OpenCV for image processing, including object dimension detection and display. The primary functionality includes detecting contours in an image, calculating the bounding box for each object, and determining its dimensions (in inches) based on a pixel-per-metric conversion. Additionally, the program resizes the image, detects edges, and displays the object dimensions along with the image's size.
 
-Features
+# **Features**
 1. **Image Resize: Resizes the input image to a reduced size for faster processing.**
 2. **Contour Detection: Identifies the contours of objects within the image.**
 3. **Bounding Box: Computes and draws the rotated bounding box for each object.**
